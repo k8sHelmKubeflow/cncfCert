@@ -1,3 +1,0 @@
-hello
-
-testing we are working on a realtime project based on continous machine learning on using kubeflow..
